@@ -13,6 +13,7 @@
 - [Grafikart](https://www.grafikart.fr/) - Frontend and backend tutorials in french.
 - [Scoth.io](https://scotch.io/) - Frontend and backend tutorials in english.
 - [Tutorialzine](https://tutorialzine.com/) - Frontend and backend tutorials in english.
+- [Creative Juiz](https://www.creativejuiz.fr/blog) - Blog with tech articles and tutorials
 
 ## News
 
@@ -30,6 +31,7 @@
 
 - [Alan Drabczynski](http://alan-drabczynski.fr/) - Alan is an artistic director, he write and give advice about graphic and web design.
 - [Webdesign trends](http://www.webdesignertrends.com/] - A website that publish article based on UI and UX
+- [One extra pixal](http://www.onextrapixel.com/) - Website with different articles
 
 
 ## Useful extensions
